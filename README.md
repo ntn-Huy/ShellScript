@@ -1,5 +1,5 @@
-# <img width="348" height="348" alt="Image" src="https://github.com/user-attachments/assets/f618597e-7feb-4e7d-b9b0-1c80b0052017" /> ***SHELLSCRIPT***
-##Code shellscript linux
+# <img width="310" height="308" alt="Image" src="https://github.com/user-attachments/assets/9d8bc632-f624-49d3-ad4c-dbcc9509b549" /> ***SHELLSCRIPT***
+## Code shellscript linux
 + Program
 + Dowload
 + Run code
