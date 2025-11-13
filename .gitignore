@@ -1,0 +1,13 @@
+# Bỏ qua các file thực thi (executables)
+*.exe
+*.out
+*.app
+
+# Bỏ qua các file đối tượng (object files)
+*.o
+*.obj
+*.ilk
+*.pdb
+*.json
+*.vscode
+*.zip
